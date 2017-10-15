@@ -1,1 +1,1 @@
-# checkout-prototype
+# Checkout.Prototype
